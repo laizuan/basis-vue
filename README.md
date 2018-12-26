@@ -37,7 +37,7 @@ basis-vue
 ```bash
 
 # 克隆项目
-git clone https://gitee.com/laizuan/basis-gulp.git
+git clone https://github.com/laizuan/basis-vue.git
 
 # 安装依赖
 npm install
@@ -83,7 +83,7 @@ element-ui | 基于 Vue 2.0 的桌面端组件库 | [http://element-cn.eleme.io]
 Headroom | 隐藏或展示页面元素 | [http://www.bootcss.com/p/headroom.js/](http://www.bootcss.com/p/headroom.js/)
 
 ## 效果图
-![demo](https://11-1252792348.cos.ap-guangzhou.myqcloud.com/basis-gulp.gif)
+![demo](https://github.com/laizuan/basis-vue/blob/master/src/assets/img/basis-vue.gif)
 
 ## 捐助
 
@@ -93,4 +93,4 @@ Headroom | 隐藏或展示页面元素 | [http://www.bootcss.com/p/headroom.js/]
 
 ## License
 
-[MIT](https://gitee.com/laizuan/basis-gulp/blob/master/LICENSE)
+[MIT](https://github.com/laizuan/basis-vue/blob/master/LICENSE)
