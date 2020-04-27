@@ -1,27 +1,22 @@
 <template>
-    <div>
-        <h1>register</h1>
-    </div>
+  <div>
+    <h1>register</h1>
+  </div>
 </template>
 
 <script>
-    export default {
-        name: "register",
-        data() {
-            return {
-                loading: true
-            }
-        },
-        mounted() {
-            this.initData()
-        },
-        methods: {
-            initData() {
-            }
-        }
+export default {
+  name: 'Register',
+  data() {
+    return {
     }
+  },
+  mounted() {
+  },
+  methods: {
+  }
+}
 </script>
 
 <style scoped>
-
 </style>

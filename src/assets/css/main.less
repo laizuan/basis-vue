@@ -1,12 +1,15 @@
-html, body {
+html,
+body {
   margin: 0;
 }
 
-.fade-enter-active, .fade-leave-active {
+.fade-enter-active,
+.fade-leave-active {
   transition: opacity .3s ease;
 }
 
-.fade-enter, .fade-leave-to {
+.fade-enter,
+.fade-leave-to {
   opacity: 0;
 }
 
@@ -23,25 +26,29 @@ html, body {
 .container {
   transition: transform .3s cubic-bezier(.78, .14, .15, .86);
   height: 100%;
+
   .wrapper {
     overflow: hidden;
     padding: 0;
     width: 100%;
-    > .wrapper-header {
+
+    >.wrapper-header {
       position: fixed;
       z-index: 10;
       right: 0;
       left: 0;
       top: 0;
+
       &.headroom--not-top {
         background: #455e9e;
-        .menu-item-box > .menu-item > a {
-          color: #fff ;
+
+        .menu-item-box>.menu-item>a {
+          color: #fff;
         }
       }
     }
 
-    > .wrapper-main {
+    >.wrapper-main {
       background: #fff;
     }
   }
