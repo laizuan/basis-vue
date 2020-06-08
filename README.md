@@ -84,8 +84,8 @@ vuex | 状态管理 | [https://vuex.vuejs.org/](https://vuex.vuejs.org/)
 element-ui | 基于 Vue 2.0 的桌面端组件库 | [http://element-cn.eleme.io](http://element-cn.eleme.io)
 Headroom | 隐藏或展示页面元素 | [http://www.bootcss.com/p/headroom.js/](http://www.bootcss.com/p/headroom.js/)
 
-## 效果图
-![demo](https://github.com/laizuan/basis-vue/blob/master/src/assets/img/basis-vue.gif)
+## 演示地址
+![https://git.io/LBasic](https://git.io/LBasic)
 
 ## 捐助
 
